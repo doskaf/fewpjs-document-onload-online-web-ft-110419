@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-  document.getElementsByTagName("p#text");
+  document.getElementById('text');;
 });
